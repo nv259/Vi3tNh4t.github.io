@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student, Part-time Employee and Developer!!
 
 - 🔭 I just launched my first project: [SNAKE_GAME][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Get excellent scores and have a part-time job
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2022 Goals: Get excellent scores and have a better job
 - ⚡ Fun fact: I love to play sport and play guitar
 
 ### Connect with me:
@@ -42,20 +42,6 @@
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [AngularJS is Dead](https://www.youtube.com/watch?v=y4I_ITZIpxM)
-- [STACKr News Weekly: Web Dev 2022, JS One-Liners, 3d JS](https://www.youtube.com/watch?v=f0O09xYo77A)
-- [STEP BY STEP Create LAYERS for your 10,000 NFT Collection for FREE - Make NFTs in Photoshop or Figma](https://www.youtube.com/watch?v=k72aCI1VyKM)
-- [STACKr News Weekly: Top Paying Tech Jobs in 2022, Visual Studio Code 2022, Code a 2D Game](https://www.youtube.com/watch?v=fnvYfRcfRIU)
-- [10 Life-Saving JavaScript One-Liners 🔥 CODE LIKE A PRO 2022](https://www.youtube.com/watch?v=tfdD9y6AMiE)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
 
@@ -93,10 +79,10 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[website]: https://www.facebook.com/profile.php?id=100016257456645
+[course]: https://github.com/UIT-21520378/SS004.M16.CLC-SNAKE_GAME
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKrhttps://www.youtube.com/channel/UClLtQ9ALNx-rbz9xpGMr1gw/featured
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
