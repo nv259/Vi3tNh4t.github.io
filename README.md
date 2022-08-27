@@ -59,6 +59,6 @@
 [website]: https://www.facebook.com/profile.php?id=100016257456645
 [course]: https://github.com/UIT-21520378/SS004.M16.CLC-SNAKE_GAME
 [twitter]: https://twitter.com/Vi3tNh4t
-[youtube]: https://youtube.com/codeSTACKrhttps://www.youtube.com/channel/UClLtQ9ALNx-rbz9xpGMr1gw/featured
-[instagram]: https://instagram.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UClLtQ9ALNx-rbz9xpGMr1gw/featured
+[instagram]: 
 [linkedin]: https://linkedin.com/in/codeSTACKrhttps://www.linkedin.com/in/nhatnv0378
