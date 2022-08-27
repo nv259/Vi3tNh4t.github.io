@@ -61,4 +61,4 @@
 [twitter]: https://twitter.com/Vi3tNh4t
 [youtube]: https://www.youtube.com/channel/UClLtQ9ALNx-rbz9xpGMr1gw/featured
 [instagram]: 
-[linkedin]: https://linkedin.com/in/codeSTACKrhttps://www.linkedin.com/in/nhatnv0378
+[linkedin]: https://www.linkedin.com/in/nhatnv0378
