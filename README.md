@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Get excellent scores and have a better job
-- ⚡ Fun fact: I love to play sport and play guitar
 
 ### Connect with me:
 
